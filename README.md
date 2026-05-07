@@ -83,12 +83,6 @@ We use `react-markdown` to convert it into React components and display it clean
 
 ---
 
-## 📸 Demo
-
-*Add screenshots or GIFs here*
-
----
-
 ## 🌱 Future Improvements
 
 * 🔐 User authentication
@@ -107,24 +101,6 @@ Contributions are welcome!
 2. Create your feature branch
 3. Commit your changes
 4. Open a pull request
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 💡 Inspiration
-
-Built to simplify everyday cooking using AI and make recipe discovery fun and effortless.
-
----
-
-## 👩‍💻 Author
-
-**Gauri Katti**
 
 ---
 
